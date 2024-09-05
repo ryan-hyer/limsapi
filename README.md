@@ -1,11 +1,12 @@
 Cloned from https://github.com/tiangolo/full-stack-fastapi-template, original README below.
+
 To Do:
 
 - Build and run to test functionality
 - Finsh configuration (env variables)
-- Remove React frontend
-- Splice in (or re-create) Quasar frontend
-  - Will need to rewrite existing pages (like auth) in Vue
+- Remove React frontend and re-create Quasar frontend (or learn React - not actually sure which would be quicker)
+- Convert existing pages to Vue if going the Vue route
+- In either case, then convert existing pages from old app to new shiny components
 
 # Full Stack FastAPI Template
 
