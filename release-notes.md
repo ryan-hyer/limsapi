@@ -2,12 +2,25 @@
 
 ## Latest Changes
 
+* 👷 Do not sync labels as it overrides manually added labels. PR [#1307](https://github.com/fastapi/full-stack-fastapi-template/pull/1307) by [@tiangolo](https://github.com/tiangolo).
+
 ### Refactors
 
 * ♻️ Remove duplicate information in the ItemCreate model. PR [#1287](https://github.com/fastapi/full-stack-fastapi-template/pull/1287) by [@jjaakko](https://github.com/jjaakko).
 
+### Docs
+
+* 📝 Add Email Templates to `backend/README.md`. PR [#1311](https://github.com/fastapi/full-stack-fastapi-template/pull/1311) by [@alejsdev](https://github.com/alejsdev).
+
 ### Internal
 
+* 💚 Set `include-hidden-files` to `True` when using the `upload-artifact` GH action. PR [#1327](https://github.com/fastapi/full-stack-fastapi-template/pull/1327) by [@svlandeg](https://github.com/svlandeg).
+* 👷🏻 Auto-generate frontend client . PR [#1320](https://github.com/fastapi/full-stack-fastapi-template/pull/1320) by [@alejsdev](https://github.com/alejsdev).
+* 🐛 Fix in `.github/labeler.yml`. PR [#1322](https://github.com/fastapi/full-stack-fastapi-template/pull/1322) by [@alejsdev](https://github.com/alejsdev).
+* 👷 Update `.github/labeler.yml`. PR [#1321](https://github.com/fastapi/full-stack-fastapi-template/pull/1321) by [@alejsdev](https://github.com/alejsdev).
+* 👷 Update `latest-changes` GitHub Action. PR [#1315](https://github.com/fastapi/full-stack-fastapi-template/pull/1315) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Update configs for labeler. PR [#1308](https://github.com/fastapi/full-stack-fastapi-template/pull/1308) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Update GitHub Action labeler to add only one label. PR [#1304](https://github.com/fastapi/full-stack-fastapi-template/pull/1304) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Bump axios from 1.6.2 to 1.7.4 in /frontend. PR [#1301](https://github.com/fastapi/full-stack-fastapi-template/pull/1301) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Update GitHub Action labeler dependencies. PR [#1302](https://github.com/fastapi/full-stack-fastapi-template/pull/1302) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update GitHub Action labeler permissions. PR [#1300](https://github.com/fastapi/full-stack-fastapi-template/pull/1300) by [@tiangolo](https://github.com/tiangolo).
